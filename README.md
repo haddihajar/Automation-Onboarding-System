@@ -69,3 +69,9 @@ Data Integrity: Ensuring variables map correctly across different software platf
 Customer Experience (CX): Reducing friction in the client journey.
 
 Developed by Hajar Haddi
+<img width="1229" height="483" alt="welcome-email" src="https://github.com/user-attachments/assets/0d143550-585f-4598-a6fc-4f3d541be104" />
+
+<img width="909" height="488" alt="zapier-workflow" src="https://github.com/user-attachments/assets/46fc932c-311f-4cbd-a3b9-c16e7e0b86fd" />
+
+<img width="1230" height="545" alt="drive-output" src="https://github.com/user-attachments/assets/c36bea36-7752-48ce-9143-bd5aae06d38a" />
+
